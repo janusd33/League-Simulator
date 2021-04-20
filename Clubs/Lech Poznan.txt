@@ -1,0 +1,11 @@
+Mikael;Ishak;FORWARD;68;
+Nika;Kacharava;FORWARD;67;
+Dani;Ramirez;MIDFIELDER;70;
+Jakub;Moder;MIDFIELDER;69;
+Pedro;Tiba;MIDFIELDER;72;
+Jan;Sykora;MIDFIELDER;72;
+Lubomir;Satka;DEFENDER;69;
+Thomas;Rogne;DEFENDER;68;
+Tymoteusz;Puchacz;DEFENDER;67;
+Ore;Crnomarković;DEFENDER;66;
+Filip;Bednarek;GOALKEEPER;68;

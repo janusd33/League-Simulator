@@ -1,0 +1,11 @@
+Thomas;Pekhart;FORWARD;67;
+Rafael;Lopes;FORWARD;70;
+;Luquinhas;MIDFIELDER;72;
+Domagoj;Antolić;MIDFIELDER;71;
+Paweł;Wszołek;MIDFIELDER;70;
+Bartosz;Kapustka;MIDFIELDER;69;
+Artur;Jędrzejczyk;DEFENDER;72;
+Filip;Mladenović;DEFENDER;71;
+Josip;Juranović;DEFENDER;68;
+Igor;Lewczuk;DEFENDER;68;
+Artur;Boruc;GOALKEEPER;73;

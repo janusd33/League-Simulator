@@ -1,0 +1,11 @@
+Karim;Benzema;FORWARD;89;
+Eden;Hazard;FORWARD;88;
+;Casemiro;MIDFIELDER;89;
+Martin;Odegaard;MIDFIELDER;83;
+Luka;Modrić;MIDFIELDER;87;
+Federico;Valverde;MIDFIELDER;83;
+Sergio;Ramos;DEFENDER;89;
+Raphael;Varane;DEFENDER;86;
+;Marcelo;DEFENDER;83;
+Dani;Carvajal;DEFENDER;86;
+Thibaut;Courtois;GOALKEEPER;89

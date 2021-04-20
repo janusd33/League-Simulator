@@ -1,0 +1,11 @@
+Gabriel;Jesus;FORWARD;83;
+Raheem;Sterling;FORWARD;88;
+Bernardo;Silva;FORWARD;87;
+Kevin;de Bruyne;MIDFIELDER;91;
+Ferran;Torres;MIDFIELDER;81;
+;Rodri;MIDFIELDER;85;
+Aymeric;Laporte;DEFENDER;87;
+Kyle;Walker;DEFENDER;85;
+Benjamin;Mendy;DEFENDER;81;
+Joao;Cancelo;DEFENDER;83;
+;Ederson;GOALKEEPER;88;

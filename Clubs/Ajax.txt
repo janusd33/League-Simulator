@@ -1,0 +1,11 @@
+Dusan;Tadić;FORWARD;83;
+David;Neres;FORWARD;80;
+;Antony;FORWARD;78;
+Quincy;Promes;MIDFIELDER;82;
+Davy;Klaasen;MIDFIELDER;77;
+Lisandro;Martinez;MIDFIELDER;78;
+Nicolas;Tagliafico;DEFENDER;84;
+Daley;Blind;DEFENDER;82;
+Noussair;Mazraoui;DEFENDER;77;
+Sergino;Dest;DEFENDER;75;
+Andre;Onana;GOALKEEPER;84;

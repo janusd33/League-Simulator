@@ -1,0 +1,11 @@
+Zlatan;Ibrahimović;FORWARD;83;
+Hakan;Calhanoglu;FORWARD;79;
+Ante;Rebić;FORWARD;79;
+Franck;Kessie;MIDFIELDER;77
+Samuel;Casillejo;MIDFIELDER;79;
+Sandro;Tonali;MIDFIELDER;77;
+Alessio;Romagnoli;DEFENDER;83;
+Theo;Hernandez;DEFENDER;80;
+Mateo;Musacchio;DEFENDER;78;
+Andrea;Conti;DEFENDER;77;
+Gianluigi;Donnarumma;GOALKEEPER;85;

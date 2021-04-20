@@ -1,0 +1,11 @@
+;Neymar Jr;FORWARD;91;
+Kylian;Mbappe;FORWARD;90;
+Angel;di Maria;FORWARD;87;
+Marco;Veratti;MIDFIELDER;86;
+Julian;Draxler;MIDFIELDER;85;
+Leandro;Paredes;MIDFIELDER;79;
+;Marquinhos;DEFENDER;85;
+Juan;Bernat;DEFENDER;83;
+Alleesandro;Florenzi;DEFENDER;84;
+Presnel;Kimpembe;DEFENDER;81;
+Keylor;Navas;GOALKEEPER;87;

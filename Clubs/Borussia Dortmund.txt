@@ -1,0 +1,11 @@
+Jadon;Sancho;FORWARD;87;
+Erling Braut;Haland;FORWARD;84;
+Marco;Reus;MIDFIELDER;85;
+Julian;Brandt;MIDFIELDER;84;
+Axel;Witsel;MIDFIELDER;84;
+Thorgan;Hazard;MIDFIELDER;83;
+Mats;Hummels;DEFENDER;86;
+Łukasz;Piszczek;DEFENDER;80;
+Thomas;Meunier;DEFENDER;81;
+Nico;Schulz;DEFENDER;80;
+Roman;Burki;GOALKEEPER;84;

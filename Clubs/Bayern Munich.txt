@@ -1,0 +1,11 @@
+Robert;Lewandowski;FORWARD;91;
+Thomas;Muller;FORWARD;86;
+Joshua;Kimmich;MIDFIELDER;88;
+Leon;Goretzka;MIDFIELDER;84;
+Douglas;Costa;MIDFIELDER;84;
+Leroy;Sane;MIDFIELDER;85;
+Niklas;Sule;DEFENDER;84;
+Alphonso;Davies;DEFENDER;81;
+Jerome;Boateng;DEFENDER;82;
+Benjamin;Pavard;DEFENDER;81;
+Manuel;Neuer;GOALKEEPER;89;

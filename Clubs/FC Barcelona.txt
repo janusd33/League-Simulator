@@ -1,0 +1,11 @@
+Lionel;Messi;FORWARD;93;
+Antoine;Griezmann;FORWARD;87;
+Ansu;Fati;FORWARD;76;
+Sergio;Busquets;MIDFIELDER;87;
+Frankie;de Jong;MIDFIELDER;85;
+Miralem;Pjanić;MIDFIELDER;85;
+Gerard;Pique;DEFENDER;86;
+Jordi;Alba;DEFENDER;86;
+Nelson;Semedo;DEFENDER;83;
+Clement;Lenglet;DEFENDER;85;
+Marc-Andre;Ter Stegen;GOALKEEPER;90;

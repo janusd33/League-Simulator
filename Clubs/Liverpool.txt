@@ -1,0 +1,11 @@
+Roberto;Firmino;FORWARD;87;
+Mohamed;Salah;FORWARD;90;
+Sadio;Mane;FORWARD;90;
+Jordan;Henderson;MIDFIELDER;86;
+Thiago;Alcantara;MIDFIELDER;85;
+;Fabinho;MIDFIELDER;87;
+Virgil;van Dijk;DEFENDER;90;
+Trent;Alexander-Arnold;DEFENDER;87;
+Andy;Robertson;DEFENDER;87;
+Joe;Gomez;DEFENDER;83;
+Alisson;Becker;GOALKEEPER;90;

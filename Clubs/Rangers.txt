@@ -1,0 +1,11 @@
+Alfredo;Morelos;FORWARD;75;
+Jermain;Defoe;FORWARD;74;
+Ryan;Kent;FORWARD;72;
+Ianis;Hagi;MIDFIELDER;73;
+Ryan;Jack;MIDFIELDER;74;
+Steven;Davis;MIDFIELDER;72;
+James;Tavernier;DEFENDER;75;
+Connor;Goldson;DEFENDER;72;
+Borna;Barisic;DEFENDER;73;
+Leon;Balogun;DEFENDER;73;
+Allan;McGregor;GOALKEEPER;74;

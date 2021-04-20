@@ -1,0 +1,11 @@
+;Everton;FORWARD;81;
+;Vinicius;FORWARD;79;
+Dyego;Sousa;FORWARD;76;
+;Pizzi;MIDFIELDER;84;
+;Rafa;MIDFIELDER;83;
+Julian;Weigl;MIDFIELDER;79;
+;Grimaldo;DEFENDER;84;
+Jan;Vertonghen;DEFENDER;83;
+Ruben;Dias;DEFENDER;81;
+Nicolas;Otamendi;DEFENDER;79;
+Odysseas;Vlachodimos;GOALKEEPER;81;

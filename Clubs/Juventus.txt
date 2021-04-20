@@ -1,0 +1,11 @@
+Cristiano;Ronaldo;FORWARD;92;
+Alvaro;Morata;FORWARD;84;
+Paulo;Dybala;FORWARD;88;
+;Arthur;MIDFIELDER;84;
+Aaron;Ramsey;MIDFIELDER;82;
+Federico;Bernardeschi;MIDFIELDER;80;
+Giorgio;Chiellini;DEFENDER;87;
+Mathias;de Ligt;DEFENDER;85;
+Alex;Sandro;DEFENDER;85;
+Juan;Cuadrado;DEFENDER;81;
+Wojciech;Szczęsny;GOALKEEPER;87;

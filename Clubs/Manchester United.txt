@@ -1,0 +1,11 @@
+Edinson;Cavani;FORWARD;87;
+Anthony;Martial;FORWARD;84;
+Bruno;Fernandes;MIDFIELDER;87;
+Paul;Pogba;MIDFIELDER;86;
+Donny;van de Beek;MIDFIELDER;83;
+Marcus;Rashford;MIDFIELDER;84;
+Alex;Telles;DEFENDER;84;
+Harry;Maguire;DEFENDER;82;
+Aaron;Wan-Bissaka;DEFENDER;83;
+Victor;Lindelof;DEFENDER;80;
+David;de Gea;GOALKEEPER;86

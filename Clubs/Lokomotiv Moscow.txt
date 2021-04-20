@@ -1,0 +1,11 @@
+;Ze Luis;FORWARD;77;
+Fedor;Smolov;FORWARD;76;
+;Eder;FORWARD;74;
+Grzegorz;Krychowiak;MIDFIELDER;80;
+Anton;Miranchuk;MIDFIELDER;76;
+Dmitriy;Barinov;MIDFIELDER;75;
+Maciej;Rybus;DEFENDER;74;
+Verdan;Corluka;DEFENDER;79;
+Vladislav;Ignatiev;DEFENDER;75;
+Slobodan;Rajković;DEFENDER;71;
+;Guilherme;GOALKEEPER;78;
